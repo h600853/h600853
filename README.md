@@ -1,7 +1,7 @@
 <h1 align="center">Hei, eg heiter Sondre</h1>
 <h3 align="center">Informasjonsteknologi Student</h3>
 
-- 👨‍💻 Prosjekter eg har gjort/deltatt i ligger her på github [https://github.com/h600853](https://github.com/h600853)
+- 👨‍💻 Prosjekter eg har gjort/deltatt i ligger her på github
 
 - 📫 Kordan kontakte meg **sondrefjeldstad@gmail.com**
 
