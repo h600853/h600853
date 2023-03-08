@@ -3,9 +3,9 @@
 
 - 👨‍💻 Prosjekter eg har gjort/deltatt i ligger her på github
 
-- 📫 Kordan kontakte meg **sondrefjeldstad@gmail.com**
+- 📫 Kontakt meg på mail:  **sondrefjeldstad@gmail.com**
 
-<h3 align="left">Få kontakt med meg:</h3>
+<h3 align="left">Profilene mine :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sondre-fjeldstad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sondre-fjeldstad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sofjeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sofjeld" height="30" width="40" /></a>
